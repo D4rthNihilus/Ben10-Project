@@ -29,7 +29,7 @@ h1 {
 div#mobile > img {
     width: 600px;
     position: absolute;
-    top: -10%;
+    top: -20%;
 }
 
 ul#aliens {
