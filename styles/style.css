@@ -39,13 +39,13 @@ ul#aliens {
 
     background-color: lime;
 
-    margin-top: 460px;
+    margin-top: 330px;
 
     height: 180px;
 }
 
 ul#aliens > li > a > img {
-    width: 20px;
+    width: 50px;
     margin: 0px;
     border-radius: 50%;
     border: 2px solid white;
